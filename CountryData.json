@@ -1,0 +1,50 @@
+[
+        {
+          "name": "New South Wales",
+          "confirmed": 913,
+          "death": "N/A",
+          "recovered": "N/A"
+        },
+        {
+          "name": "Victoria",
+          "confirmed": 411,
+          "death": "N/A",
+          "recovered": "N/A"
+        },
+        {
+          "name": "Queensland",
+          "confirmed": 397,
+          "death": "N/A",
+          "recovered": "N/A"
+        },
+        {
+          "name": "South Australia",
+          "confirmed": 170,
+          "death": "N/A",
+          "recovered": "N/A"
+        },
+        {
+          "name": "Tasmania",
+          "confirmed": 26,
+          "death": "N/A",
+          "recovered": "N/A"
+        },
+        {
+          "name": "Western Australia",
+          "confirmed": 175,
+          "death": "N/A",
+          "recovered": "N/A"
+        },
+        {
+          "name": "Australian Capital Territory",
+          "confirmed": 39,
+          "death": "N/A",
+          "recovered": "N/A"
+        },
+        {
+          "name": "Northern Territory",
+          "confirmed": 5,
+          "death": "N/A",
+          "recovered": "N/A"
+        }
+]
